@@ -4,13 +4,13 @@
 
 Once you have accessed the VM, you must clone the workshop repo to the machine.
 
-ssh bran@52.173.82.18
+ssh fedetacacho@52.173.82.18
 
 1. Start with a terminal on the VM
 2. Clone the Github repo via the command line
 
     ```
-    git clone https://github.com/branstraub/aks-workshop.git
+    git clone https://github.com/fedetacacho/aks-workshop.git
     ```
 
 ## Get Applications up and running
